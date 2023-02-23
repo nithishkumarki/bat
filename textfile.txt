@@ -1,0 +1,46 @@
+<html>
+<head>
+<style>
+body{color:white;background-image:url(xox.jpg);
+background-repeat:no-repeat;background-size:100%;}
+</style>
+</head>
+<body>
+<h1 style="color:green; text-align:center;">XBOX</h1>
+<h3 style="text-align:center;">welcome to xbox</h3>
+<a href="https://www.xbox.com/en-GB/">
+<img src="image1.png" style="witdh:120;height:120;img-align:center;">
+</a>
+<p>sign in and get the amazing experience</p>
+<a href="https://www.xbox.com/en-GB/">click me to login</a>
+<p style="color:green;">Xbox game for users availability<p>
+<ol type='i'>
+<li>free games available</li>
+<li>login if already signined
+<ul>
+<li>discount for new sign</li>
+<li>new games avai</li>
+</ul>
+</li>
+</ol>
+<p class="text-End">welcome to xbox</p>
+<br>
+<table style="bgcolor:green;" border="2">
+<tr style="color:green;">
+<th>xbox</th>
+<th>games</th>
+</tr>
+<tr>
+<td>freelogin</td>
+<td>freegames</td>
+</tr>
+<tr>
+<td>dollor</td>
+<td>unlimited</td>
+<tr/>
+</table>
+
+
+</body>
+</html>
+
